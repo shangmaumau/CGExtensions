@@ -1,3 +1,3 @@
 # CGExtensions
 
-A description of this package.
+Some userful extensions of `CoreGraphics`.
