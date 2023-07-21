@@ -5,9 +5,9 @@
         "package": "CGPointExtension",
         "repositoryURL": "https://github.com/shangmaumau/CGPointExtension",
         "state": {
-          "branch": "main",
-          "revision": "6a79c75922423bbaeccced99dac11d71705da7b1",
-          "version": null
+          "branch": null,
+          "revision": "67203d5a7daeecf82fe4cdfc966d83ed046be875",
+          "version": "1.1.0"
         }
       }
     ]

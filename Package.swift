@@ -15,7 +15,7 @@ let package = Package(
             targets: ["CGExtensions"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/shangmaumau/CGPointExtension", .branchItem("main")),
+        .package(url: "https://github.com/shangmaumau/CGPointExtension", .exact("1.1.0")),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
