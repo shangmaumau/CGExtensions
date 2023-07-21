@@ -1,7 +1,7 @@
 
 import CoreGraphics
 
-public let version: String = "1.0.0"
+public let version: String = "1.1.0"
 
 extension CGFloat {
     

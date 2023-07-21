@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "SDWebImage",
-        "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
+        "package": "CGPointExtension",
+        "repositoryURL": "https://github.com/shangmaumau/CGPointExtension",
         "state": {
-          "branch": null,
-          "revision": "633996a807442ec28df9d33b0f88ce57a0e2fdbf",
-          "version": "5.17.0"
+          "branch": "main",
+          "revision": "6a79c75922423bbaeccced99dac11d71705da7b1",
+          "version": null
         }
       }
     ]
