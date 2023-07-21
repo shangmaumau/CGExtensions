@@ -1,6 +1,8 @@
 
 import CoreGraphics
 
+public let version: String = "1.0.0"
+
 extension CGFloat {
     
     public static var normalPadding: CGFloat {
@@ -23,6 +25,7 @@ extension CGPoint {
     }
     
 }
+
 extension CGPoint: Comparable {
     
     public static func < (lhs: Self, rhs: Self) -> Bool {
